@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkselSjogard
 - 👀 I’m interested in stuff and things
-- 🌱 I’m currently learning Scala
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: impossible
 - 😄 Pronouns: he/him
